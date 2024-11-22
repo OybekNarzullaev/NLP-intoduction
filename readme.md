@@ -1,4 +1,4 @@
-# Welcome to Machine Learning: Natural Language Processing in Python (Version 2).
+# Machine Learning: Natural Language Processing in Python.
 
 ## This is a massive 4-in-1 course covering:
 
